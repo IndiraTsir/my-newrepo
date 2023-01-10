@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
+LOL = "Lol "
+
+
 class TennisGame1:
     def __init__(self, player1Name, player2Name):
         self.player1Name = player1Name
